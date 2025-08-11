@@ -1,16 +1,17 @@
-## Hi there 👋
+## Helllo 🤙
 
-<!--
-**harisoncleytondev/harisoncleytondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Minhas linguagens favoritas no GitHub:**  
 
-Here are some ideas to get you started:
+![harisoncleytondev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harisoncleytondev&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Principais Tecnologias:
+
+<span>
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="32" height="32" />&nbsp;
+  <img alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="32" height="32" />&nbsp;
+  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="32" height="32" />&nbsp;
+  <img alt="CSS" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="32" height="32" />&nbsp;
+  <img alt="Node.js" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="32" height="32" />&nbsp;
+</span>
