@@ -1,31 +1,59 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=ff8da1&text=Ol%C3%A1!%20Me%20chamo%20Harison%20Cleyton%20%F0%9F%91%8B&fontColor=ffffff&fontSize=30&fontAlignY=40"/>
-<br>
-<div align="center">
-  <samp>
-      <br>
-      👋 Seja muito bem-vindo(a) ao meu perfil! <br>
-  </samp>
-</div>
+![visitors](https://komarev.com/ghpvc/?username=harisoncleytondev&color=%23555555)
 
----
+# 👋 Olá! 
 
-<h1>👨‍💻 Sobre mim</h1>
+``` py
+from Universe import Developer
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (MédioTEC - Senac Paulista)**
-- 💡 Apaixonado por tecnologia e por transformar ideias em soluções reais
-- 🎨 Interessado em **design** e **inteligência artificial**
-- 🚀 Sempre em busca de **aprendizado contínuo** e **inovação**
+class SobreMim(Developer):
+    nome = "Harison Cleyton"
+    area = "Desenvolvimento Fullstack & IA"
+    trabalho = "Estudante e Desenvolvedor Autônomo"
+    local = "Brasil"
+```
 
----
+------------------------------------------------------------------------
 
-<h1>✨ Tecnologias</h1>
+## 🚀 Sobre mim
 
-[![My Skills](https://skillicons.dev/icons?i=py,react,git,vscode,mysql,java,js,css)](https://skillicons.dev)
+-   🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+-   💡 Entusiasta de tecnologia, IA, design e boas experiências digitais
+-   📚 Sempre desenvolvendo projetos paralelos e explorando novas áreas
+-   🔥 Focado em evoluir minhas habilidades e construir soluções úteis
 
----
+------------------------------------------------------------------------
 
-<h1>📖 Estudos e Aprimoramento</h1>
+## 🧠 Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,redis,ts,py)](https://skillicons.dev)
+### **Linguagens & Desenvolvimento**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff8da1&textBg=false&descAlign=0&descAlignY=0&reversal=true&fontAlign=0&fontAlignY=0&section=footer"/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+
+### **Front-end**
+
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
+
+### **Back-end & Banco de Dados**
+
+![express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+
+### **Ferramentas**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+
+------------------------------------------------------------------------
+
+## 📫 Onde me encontrar
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harisonc081@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/harisoncleytondev?label=seguir&style=social)](https://github.com/harisoncleytondev)
