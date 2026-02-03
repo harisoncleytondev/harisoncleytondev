@@ -8,7 +8,7 @@ from Universe import Developer
 class SobreMim(Developer):
     nome = "Harison Cleyton"
     area = "Desenvolvimento Fullstack & IA"
-    trabalho = "Estudante e Desenvolvedor Autônomo"
+    trabalho = "Estagiário"
     local = "Brasil"
 ```
 
