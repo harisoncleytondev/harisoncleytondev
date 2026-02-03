@@ -57,3 +57,9 @@ class SobreMim(Developer):
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harisonc081@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/harisoncleytondev?label=seguir&style=social)](https://github.com/harisoncleytondev)
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harisoncleytondev/harisoncleytondev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harisoncleytondev/harisoncleytondev/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harisoncleytondev/harisoncleytondev/output/pacman-contribution-graph.svg">
+</picture>
