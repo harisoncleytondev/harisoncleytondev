@@ -2,54 +2,74 @@
 
 # 👋 Olá! 
 
-``` py
-from Universe import Developer
+```go
+package main
 
-class SobreMim(Developer):
-    nome = "Harison Cleyton"
-    area = "Desenvolvimento Fullstack & IA"
-    trabalho = "Estagiário"
-    local = "Brasil"
+import "fmt"
+
+type Developer struct {
+    Name     string
+    Role     string
+    Focus    string
+    Location string
+}
+
+func main() {
+    harison := Developer{
+        Name:     "Harison Cleyton",
+        Role:     "Backend Developer",
+        Focus:    "APIs, Arquitetura de Sistemas & Performance",
+        Location: "Brasil",
+    }
+    fmt.Printf("%+v\n", harison)
+}
 ```
-
-------------------------------------------------------------------------
 
 ## 🚀 Sobre mim
 
--   🎓 Cursando **Análise e Desenvolvimento de Sistemas**
--   💡 Entusiasta de tecnologia, IA, design e boas experiências digitais
--   📚 Sempre desenvolvendo projetos paralelos e explorando novas áreas
--   🔥 Focado em evoluir minhas habilidades e construir soluções úteis
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 💻 Focado no desenvolvimento Back-end, construindo APIs robustas, escaláveis e eficientes
+- ⚙️ Meu ecossistema principal envolve JavaScript/TypeScript (Node.js) e Java, e atualmente estou mergulhando no ecossistema Golang
+- 🔥 Sempre explorando arquitetura de software, bancos de dados, integrações e boas práticas de código
 
 ------------------------------------------------------------------------
 
 ## 🧠 Minhas Skills
 
-### **Linguagens & Desenvolvimento**
+### **Linguagens**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 
-### **Front-end**
+### **Frameworks Back-end**
 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=spring)
+![Gin Gonic](https://img.shields.io/badge/-Gin_Gonic-333333?style=flat&logo=go)
 
-### **Back-end & Banco de Dados**
+### **Banco de Dados**
 
-![express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 
-### **Ferramentas**
+### **Ferramentas & Infraestrutura**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+
+------------------------------------------------------------------------
+
+## 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harisoncleytondev&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisoncleytondev&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 ------------------------------------------------------------------------
 
